@@ -4,6 +4,5 @@ dist/
 !.env.example
 node_modules/
 
-# Hosting identifiers and private deployment configuration
 .openai/
 municipal-it-progress-*.json
